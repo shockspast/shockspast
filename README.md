@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shockspast
-- i know python and am hoping to lern c++
-- i do not wunt to callaberate
+- i know python and am hoping to lern c
+- i do not callaberate
 
 <!---
 shockspast/shockspast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
